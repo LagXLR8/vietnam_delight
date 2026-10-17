@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "vietnam_delight:banana_blossom_shredded"
+    },
+    {
+      "item": "vietnam_delight:garlic"
+    },
+    {
+      "item": "vietnam_delight:lime_slice"
+    },
+    {
+      "item": "vietnam_delight:lemongrass"
+    },
+    {
+      "item": "vietnam_delight:bird_eye_chilis"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:banana_blossom_sour_soup"
+  }
+}

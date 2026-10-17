@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/tamarind_stage4",
+  "textures": {
+    "all": "vietnam_delight:block/tamarind_stage4",
+    "particle": "vietnam_delight:block/tamarind_stage0",
+    "0": "vietnam_delight:block/tamarind_stage4"
+  },
+  "render_type": "cutout_mipped"
+}

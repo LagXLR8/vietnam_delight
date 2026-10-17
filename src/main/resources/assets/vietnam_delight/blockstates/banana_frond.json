@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "vietnam_delight:block/banana_frond"
+    },
+    "blockstate=1": {
+      "model": "vietnam_delight:block/banana_frond_states_blockstate_0"
+    }
+  }
+}

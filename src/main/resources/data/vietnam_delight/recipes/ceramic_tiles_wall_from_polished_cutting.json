@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "vietnam_delight:polished_ceramic_clay"
+  },
+  "result": "vietnam_delight:ceramic_tiles_wall"
+}

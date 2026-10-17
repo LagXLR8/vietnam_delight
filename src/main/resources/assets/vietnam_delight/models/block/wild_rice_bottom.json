@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "vietnam_delight:block/wild_sticky_rice_bottom"
+  }
+}

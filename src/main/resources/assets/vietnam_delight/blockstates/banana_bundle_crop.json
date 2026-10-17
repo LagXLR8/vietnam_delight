@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "vietnam_delight:block/banana_bundle_crop"
+    },
+    "blockstate=1": {
+      "model": "vietnam_delight:block/banana_bundle_crop_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "vietnam_delight:block/banana_bundle_crop_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "vietnam_delight:block/banana_bundle_crop_states_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "vietnam_delight:block/banana_bundle_crop_states_blockstate_3"
+    }
+  }
+}

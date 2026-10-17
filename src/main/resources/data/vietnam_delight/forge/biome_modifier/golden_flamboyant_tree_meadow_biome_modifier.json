@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:meadow"
+  ],
+  "features": "vietnam_delight:golden_flamboyant_tree_meadow",
+  "step": "vegetal_decoration"
+}

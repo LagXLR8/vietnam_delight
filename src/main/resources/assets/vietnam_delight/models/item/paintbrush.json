@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "vietnam_delight:item/paintbrush",
+    "layer1": "vietnam_delight:item/paintbrush_overlay"
+  }
+}

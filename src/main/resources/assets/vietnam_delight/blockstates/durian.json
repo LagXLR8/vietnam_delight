@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "vietnam_delight:block/durian_0"
+    },
+    "stage=1": {
+      "model": "vietnam_delight:block/durian_1"
+    },
+    "stage=2": {
+      "model": "vietnam_delight:block/durian_2"
+    },
+    "stage=3": {
+      "model": "vietnam_delight:block/durian_3"
+    }
+  }
+}

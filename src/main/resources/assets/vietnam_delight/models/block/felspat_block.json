@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/felspat_block",
+    "up": "vietnam_delight:block/felspat_block",
+    "north": "vietnam_delight:block/felspat_block",
+    "east": "vietnam_delight:block/felspat_block",
+    "south": "vietnam_delight:block/felspat_block",
+    "west": "vietnam_delight:block/felspat_block",
+    "particle": "vietnam_delight:block/felspat_block"
+  },
+  "render_type": "solid"
+}

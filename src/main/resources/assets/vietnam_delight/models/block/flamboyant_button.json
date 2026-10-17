@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "vietnam_delight:block/flamboyant_planks"
+  }
+}

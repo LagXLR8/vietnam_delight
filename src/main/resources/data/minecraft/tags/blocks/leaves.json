@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "vietnam_delight:banyan_leaves",
+    "vietnam_delight:flowering_banyan_leaves",
+    "vietnam_delight:flowering_tamarind_leaves",
+    "vietnam_delight:tamarind_leaves",
+    "vietnam_delight:flamboyant_leaves",
+    "vietnam_delight:flowering_flamboyant_leaves",
+    "vietnam_delight:blooming_flamboyant_leaves",
+    "vietnam_delight:flowering_golden_flamboyant_leaves",
+    "vietnam_delight:blooming_golden_flamboyant_leaves",
+    "vietnam_delight:durian_leaves",
+    "vietnam_delight:hibiscus_leaves",
+    "vietnam_delight:flowering_hibiscus_leaves",
+    "vietnam_delight:bougainvillea_leaves",
+    "vietnam_delight:flowering_orange_bougainvillea_leaves",
+    "vietnam_delight:flowering_pink_bougainvillea_leaves",
+    "vietnam_delight:white_bougainvillea_leaves"
+  ]
+}

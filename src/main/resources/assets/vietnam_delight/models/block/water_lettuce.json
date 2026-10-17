@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/water_lettuce",
+  "textures": {
+    "all": "vietnam_delight:block/water_lettuce",
+    "particle": "vietnam_delight:block/water_lettuce",
+    "0": "vietnam_delight:block/water_lettuce",
+    "1": "vietnam_delight:block/water_lettuce_root",
+    "2": "vietnam_delight:block/water_lettuce_top"
+  },
+  "render_type": "cutout"
+}

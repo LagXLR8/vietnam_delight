@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/bruised_green_banana",
+  "textures": {
+    "all": "vietnam_delight:block/bruised_green_banana",
+    "particle": "vietnam_delight:block/bruised_green_banana",
+    "0": "vietnam_delight:block/bruised_green_banana"
+  },
+  "render_type": "cutout_mipped"
+}

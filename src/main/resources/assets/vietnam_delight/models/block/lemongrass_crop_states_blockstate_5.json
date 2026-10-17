@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/lemongrass_stage_5",
+  "textures": {
+    "all": "vietnam_delight:block/lemongrass_stage_5",
+    "particle": "vietnam_delight:block/lemongrass_stage_0",
+    "0": "vietnam_delight:block/lemongrass_stage_5",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout"
+}

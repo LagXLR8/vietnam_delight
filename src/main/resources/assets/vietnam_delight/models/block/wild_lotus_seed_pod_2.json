@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/wild_lotus_seed_pod_2",
+  "textures": {
+    "all": "vietnam_delight:block/lotus_seed_pod_states_2",
+    "particle": "vietnam_delight:block/lotus_seed_pod_states_2",
+    "1": "vietnam_delight:block/lotus_lilypad_states_3",
+    "2": "vietnam_delight:block/lotus_stem_states_1_half",
+    "3": "vietnam_delight:block/lotus_seed_pod_states_2"
+  },
+  "render_type": "cutout"
+}

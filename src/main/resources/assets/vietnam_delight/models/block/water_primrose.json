@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/water_primrose",
+  "textures": {
+    "all": "vietnam_delight:block/water_primrose_leaf",
+    "particle": "vietnam_delight:block/water_primrose_leaf",
+    "0": "vietnam_delight:block/water_primrose",
+    "1": "vietnam_delight:block/water_primrose_leaf"
+  },
+  "render_type": "cutout"
+}

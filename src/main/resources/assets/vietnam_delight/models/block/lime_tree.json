@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/lemon_tree",
+  "textures": {
+    "all": "vietnam_delight:block/lemon_tree_trunk",
+    "particle": "vietnam_delight:block/lemon_tree_trunk",
+    "0": "vietnam_delight:block/lemon_tree_trunk",
+    "1": "vietnam_delight:block/lemon_tree_lower",
+    "2": "vietnam_delight:block/lemon_tree_leaves"
+  },
+  "render_type": "cutout"
+}

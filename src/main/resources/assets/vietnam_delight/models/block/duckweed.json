@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/duckweed",
+  "textures": {
+    "all": "vietnam_delight:block/duckweed",
+    "particle": "vietnam_delight:block/duckweed",
+    "0": "vietnam_delight:block/duckweed",
+    "1": "vietnam_delight:block/duckweed_root"
+  },
+  "render_type": "cutout"
+}

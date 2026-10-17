@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "vietnam_delight:salt"
+    },
+    {
+      "item": "vietnam_delight:salt"
+    },
+    {
+      "item": "vietnam_delight:salt"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:salt_shaker",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:bean_sprouts"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:bean_sprouts_bag",
+    "count": 1
+  }
+}

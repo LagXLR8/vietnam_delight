@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "vietnam_delight:block/stripped_durian_log"
+    },
+    "axis=z": {
+      "model": "vietnam_delight:block/stripped_durian_log_horizontal",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "vietnam_delight:block/stripped_durian_log_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

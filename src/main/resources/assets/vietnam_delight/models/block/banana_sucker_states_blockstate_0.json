@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/big_banana_sucker",
+  "textures": {
+    "all": "vietnam_delight:block/big_banana_sucker",
+    "particle": "vietnam_delight:block/small_banana_sucker",
+    "2": "vietnam_delight:block/big_banana_sucker",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout_mipped"
+}

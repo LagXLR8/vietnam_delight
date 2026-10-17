@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "vietnam_delight:turmeric_powder"
+    },
+    {
+      "item": "vietnam_delight:turmeric_powder"
+    },
+    {
+      "item": "vietnam_delight:turmeric_powder"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:turmeric_powder_shaker",
+    "count": 1
+  }
+}

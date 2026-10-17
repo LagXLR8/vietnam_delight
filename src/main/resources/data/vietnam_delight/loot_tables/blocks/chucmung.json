@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/chucmung",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:chucmung"
+        }
+      ]
+    }
+  ]
+}

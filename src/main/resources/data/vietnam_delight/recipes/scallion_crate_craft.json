@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:scallion"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:scallion_crate",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "axis=y,lichen=false": {
+      "model": "vietnam_delight:block/durian_wood"
+    },
+    "axis=z,lichen=false": {
+      "model": "vietnam_delight:block/durian_wood",
+      "x": 90
+    },
+    "axis=x,lichen=false": {
+      "model": "vietnam_delight:block/durian_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,lichen=true": {
+      "model": "vietnam_delight:block/durian_wood_lichen"
+    },
+    "axis=z,lichen=true": {
+      "model": "vietnam_delight:block/durian_wood_lichen",
+      "x": 90
+    },
+    "axis=x,lichen=true": {
+      "model": "vietnam_delight:block/durian_wood_lichen",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/lotus_root",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mud"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.4
+        },
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:lotus_rhizome"
+        }
+      ]
+    }
+  ]
+}

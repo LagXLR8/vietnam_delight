@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "vietnam_delight:block/marigold_bush_bottom"
+    },
+    "half=upper": {
+      "model": "vietnam_delight:block/marigold_bush_top"
+    }
+  }
+}

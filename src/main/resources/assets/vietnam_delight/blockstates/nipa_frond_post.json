@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vietnam_delight:block/nipa_frond_post"
+    },
+    "facing=east": {
+      "model": "vietnam_delight:block/nipa_frond_post",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vietnam_delight:block/nipa_frond_post",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vietnam_delight:block/nipa_frond_post",
+      "y": 270
+    }
+  }
+}

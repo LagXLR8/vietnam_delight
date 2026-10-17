@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "jungle",
+    "sparse_jungle",
+    "river"
+  ],
+  "features": "vietnam_delight:wild_garlic_chives_flower",
+  "step": "vegetal_decoration"
+}

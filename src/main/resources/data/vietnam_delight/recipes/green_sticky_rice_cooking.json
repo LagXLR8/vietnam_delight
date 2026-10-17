@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    [
+      {
+        "item": "minecraft:green_dye"
+      },
+      {
+        "item": "minecraft:lime_dye"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:green_sticky_rice"
+  }
+}

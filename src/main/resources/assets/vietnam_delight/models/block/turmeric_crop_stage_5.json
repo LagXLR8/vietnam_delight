@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "render_type": "cutout",
+  "textures": {
+    "cross": "vietnam_delight:block/turmeric_5",
+    "particle": "vietnam_delight:block/turmeric_0"
+  }
+}

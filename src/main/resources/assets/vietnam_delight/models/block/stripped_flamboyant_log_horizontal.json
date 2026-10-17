@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "vietnam_delight:block/stripped_flamboyant_log_top",
+    "side": "vietnam_delight:block/stripped_flamboyant_log"
+  }
+}

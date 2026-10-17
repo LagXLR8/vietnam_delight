@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "river",
+    "swamp"
+  ],
+  "features": "vietnam_delight:wild_lotot",
+  "step": "vegetal_decoration"
+}

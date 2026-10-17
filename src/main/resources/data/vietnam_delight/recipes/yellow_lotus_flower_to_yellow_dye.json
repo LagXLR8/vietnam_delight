@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:yellow_lotus_flower"
+    }
+  ],
+  "result": {
+    "item": "minecraft:yellow_dye",
+    "count": 1
+  }
+}

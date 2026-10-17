@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "pattern": [
+    "S",
+    "F",
+    "H"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "F": [
+      {
+        "item": "vietnam_delight:marigold"
+      },
+      {
+        "item": "vietnam_delight:marigold_bush"
+      }
+    ],
+    "H": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:sunburst_candle",
+    "count": 1
+  }
+}

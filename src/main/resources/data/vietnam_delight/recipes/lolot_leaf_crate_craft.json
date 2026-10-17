@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:lotot_leaf"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:lolot_leaf_crate",
+    "count": 1
+  }
+}

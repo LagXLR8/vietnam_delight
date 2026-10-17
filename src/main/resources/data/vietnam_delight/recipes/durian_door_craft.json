@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_door",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "vietnam_delight:durian_planks"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:durian_door",
+    "count": 3
+  }
+}

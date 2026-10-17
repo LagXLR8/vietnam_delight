@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hanging=false": { "model": "vietnam_delight:block/salt_lantern" },
+    "hanging=true":  { "model": "vietnam_delight:block/salt_lantern_hanging" }
+  }
+}

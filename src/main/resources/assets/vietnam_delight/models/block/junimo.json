@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/junimo",
+  "textures": {
+    "all": "vietnam_delight:block/junimo",
+    "particle": "vietnam_delight:block/junimo",
+    "0": "vietnam_delight:block/junimo",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout"
+}

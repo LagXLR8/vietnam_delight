@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/mung_bean_stage_0",
+  "textures": {
+    "all": "vietnam_delight:block/mung_bean_stage_0",
+    "particle": "vietnam_delight:block/mung_bean_stage_0",
+    "0": "vietnam_delight:block/mung_bean_stage_0"
+  },
+  "render_type": "cutout_mipped"
+}

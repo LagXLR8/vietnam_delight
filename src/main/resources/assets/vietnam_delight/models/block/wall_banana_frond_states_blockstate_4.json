@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/wall_banana_frond_5",
+  "textures": {
+    "all": "vietnam_delight:block/banana_frond",
+    "particle": "vietnam_delight:block/banana_frond_0",
+    "0": "vietnam_delight:block/banana_frond"
+  },
+  "render_type": "cutout_mipped"
+}

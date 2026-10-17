@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/black_peppercorn_vine_stage_12",
+  "textures": {
+    "all": "vietnam_delight:block/black_peppercorn_vine_stage_12",
+    "particle": "vietnam_delight:block/black_peppercorn_vine_stage_12",
+    "0": "vietnam_delight:block/black_peppercorn_vine_stage_12"
+  },
+  "render_type": "cutout"
+}

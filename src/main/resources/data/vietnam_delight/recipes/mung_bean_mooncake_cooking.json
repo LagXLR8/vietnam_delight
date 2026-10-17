@@ -1,0 +1,11 @@
+{
+  "type": "vietnam_delight:typed_mooncake_smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "required_type": "mung_bean",
+  "ingredient": {
+    "item": "vietnam_delight:unbaked_mooncake"
+  },
+  "result": "vietnam_delight:mung_bean_mooncake"
+}

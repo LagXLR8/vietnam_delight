@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/apple_snails",
+  "textures": {
+    "all": "vietnam_delight:block/apple_snails",
+    "particle": "vietnam_delight:block/apple_snails",
+    "0": "vietnam_delight:block/apple_snails"
+  },
+  "render_type": "solid"
+}

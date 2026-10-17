@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/medium_banana_pseudostem_2",
+  "textures": {
+    "all": "vietnam_delight:block/medium_banana_pseudostem_top_2",
+    "particle": "vietnam_delight:block/banana_pseudostem",
+    "0": "vietnam_delight:block/banana_pseudostem",
+    "1": "vietnam_delight:block/banana_pseudostem_top_2"
+  },
+  "render_type": "cutout"
+}

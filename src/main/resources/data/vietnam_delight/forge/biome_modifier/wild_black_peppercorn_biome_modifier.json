@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "jungle",
+    "sparse_jungle"
+  ],
+  "features": "vietnam_delight:wild_black_peppercorn",
+  "step": "vegetal_decoration"
+}

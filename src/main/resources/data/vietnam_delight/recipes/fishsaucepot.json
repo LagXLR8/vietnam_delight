@@ -1,0 +1,16 @@
+{
+  "type": "vietnam_delight:ceramic_clay_pot",
+  "ingredients": [
+    { "tag": "minecraft:fishes" },
+    { "tag": "minecraft:fishes" },
+    { "item": "vietnam_delight:salt" },
+    { "item": "vietnam_delight:salt" },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "result": {
+    "item": "vietnam_delight:fish_sauce",
+    "count": 1
+  },
+  "cookingtime": 600,
+  "experience": 10
+}

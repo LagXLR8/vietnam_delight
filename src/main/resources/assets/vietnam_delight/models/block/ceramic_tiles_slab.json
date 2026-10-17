@@ -1,0 +1,49 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "vietnam_delight:block/ceramic_tiles",
+    "bottom": "vietnam_delight:block/ceramic_tiles",
+    "top": "vietnam_delight:block/ceramic_tiles",
+    "side": "vietnam_delight:block/ceramic_tiles"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        8,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "tintindex": 0
+        },
+        "up": {
+          "texture": "#top",
+          "tintindex": 0
+        },
+        "north": {
+          "texture": "#side",
+          "tintindex": 0
+        },
+        "south": {
+          "texture": "#side",
+          "tintindex": 0
+        },
+        "west": {
+          "texture": "#side",
+          "tintindex": 0
+        },
+        "east": {
+          "texture": "#side",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "vietnam_delight:felspat_wall",
+    "vietnam_delight:polished_felspat_wall",
+    "vietnam_delight:felspat_brick_wall",
+    "vietnam_delight:ceramic_clay_wall",
+    "vietnam_delight:polished_ceramic_clay_wall",
+    "vietnam_delight:ceramic_tiles_wall"
+  ]
+}

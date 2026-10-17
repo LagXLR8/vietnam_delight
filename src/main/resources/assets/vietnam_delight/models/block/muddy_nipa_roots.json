@@ -1,0 +1,36 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "mud": "minecraft:block/mud",
+    "roots_top": "vietnam_delight:block/nipa_roots_top",
+    "roots_side": "vietnam_delight:block/nipa_roots_side",
+    "particle": "vietnam_delight:block/nipa_roots_top"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "down": {"uv": [0, 0, 16, 16], "texture": "#mud"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#mud"},
+        "north": {"uv": [0, 0, 16, 16], "texture": "#mud"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#mud"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#mud"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#mud"}
+      }
+    },
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "down": {"uv": [0, 0, 16, 16], "texture": "#roots_top"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#roots_top"},
+        "north": {"uv": [0, 0, 16, 16], "texture": "#roots_side"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#roots_side"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#roots_side"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#roots_side"}
+      }
+    }
+  ],
+  "render_type": "cutout"
+}

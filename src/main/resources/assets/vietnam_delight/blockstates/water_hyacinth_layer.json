@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height2"
+    },
+    "layers=2": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height4"
+    },
+    "layers=3": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height6"
+    },
+    "layers=4": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height8"
+    },
+    "layers=5": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height10"
+    },
+    "layers=6": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height12"
+    },
+    "layers=7": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height14"
+    },
+    "layers=8": {
+      "model": "vietnam_delight:block/water_hyacinth_layer_height16"
+    }
+  }
+}

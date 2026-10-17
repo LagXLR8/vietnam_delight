@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:nipa_nut"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "vietnam_delight:nipa_flesh"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        15,
+        0,
+        3
+      ],
+      "to": [
+        15,
+        16,
+        32
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "y",
+        "origin": [
+          15,
+          1,
+          1
+        ]
+      },
+      "faces": {
+        "east": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

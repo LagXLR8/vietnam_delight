@@ -1,0 +1,84 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "vietnam_delight:block/ceramic_tiles"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        16,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            12,
+            12,
+            4
+          ],
+          "texture": "#wall",
+          "cullface": "down",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#wall",
+          "cullface": "up",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#wall",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#wall",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#wall",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            12,
+            16
+          ],
+          "texture": "#wall",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

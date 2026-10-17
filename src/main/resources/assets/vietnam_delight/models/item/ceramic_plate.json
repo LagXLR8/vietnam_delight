@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vietnam_delight:item/ceramic_plate"
+  },
+  "render_type": "translucent"
+}

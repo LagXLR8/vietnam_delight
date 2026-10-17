@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/banyan_flower",
+  "textures": {
+    "all": "vietnam_delight:block/banyan_flower",
+    "particle": "vietnam_delight:block/banyan_flower",
+    "0": "vietnam_delight:block/banyan_flower",
+    "1": "vietnam_delight:block/banyan_flower_plant"
+  },
+  "render_type": "cutout_mipped"
+}

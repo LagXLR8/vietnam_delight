@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/salt_block",
+    "up": "vietnam_delight:block/salt_block",
+    "north": "vietnam_delight:block/salt_block",
+    "east": "vietnam_delight:block/salt_block",
+    "south": "vietnam_delight:block/salt_block",
+    "west": "vietnam_delight:block/salt_block",
+    "particle": "vietnam_delight:block/salt_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vietnam_delight:item/banyan_sapling"
+  },
+  "render_type": "translucent"
+}

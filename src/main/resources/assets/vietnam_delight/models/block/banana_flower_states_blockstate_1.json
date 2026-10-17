@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/banana_flower_state_2",
+    "particle": "vietnam_delight:block/banana_flower_state_0"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "vietnam_delight:custom/nipa_frond",
+  "textures": {
+    "all": "vietnam_delight:block/nipa_frond_6",
+    "particle": "vietnam_delight:block/nipa_frond_4",
+    "0": "vietnam_delight:block/nipa_frond_6",
+    "1": "vietnam_delight:block/nipa_frond_1",
+    "2": "vietnam_delight:block/nipa_frond_2",
+    "3": "vietnam_delight:block/nipa_frond_3",
+    "4": "vietnam_delight:block/nipa_frond_4",
+    "5": "vietnam_delight:block/nipa_frond_5",
+    "6": "vietnam_delight:block/nipa_root",
+    "7": "vietnam_delight:block/nipa_frond_body"
+  },
+  "render_type": "cutout_mipped"
+}

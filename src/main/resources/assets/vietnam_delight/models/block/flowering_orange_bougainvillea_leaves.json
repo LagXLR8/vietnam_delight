@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "vietnam_delight:block/flowering_orange_bougainvillea_leaves",
+    "particle": "vietnam_delight:block/flowering_orange_bougainvillea_leaves"
+  }
+}

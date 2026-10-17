@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "vietnam_delight:block/durian_sapling"
+    },
+    "stage=1": {
+      "model": "vietnam_delight:block/durian_sapling"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hanging=false": { "model": "vietnam_delight:block/paper_lantern" },
+    "hanging=true":  { "model": "vietnam_delight:block/hanging_paper_lantern" }
+  }
+}

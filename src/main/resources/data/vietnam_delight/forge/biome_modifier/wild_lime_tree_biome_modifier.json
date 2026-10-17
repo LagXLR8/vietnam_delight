@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "meadow",
+    "windswept_forest",
+    "windswept_hills"
+  ],
+  "features": "vietnam_delight:wild_lime_tree",
+  "step": "vegetal_decoration"
+}

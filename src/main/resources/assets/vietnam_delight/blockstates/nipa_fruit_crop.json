@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "vietnam_delight:block/nipa_fruit_crop"
+    },
+    "blockstate=1": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "vietnam_delight:block/nipa_fruit_crop_state_blockstate_6"
+    }
+  }
+}

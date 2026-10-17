@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "farmersdelight:rope"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:lantern_rope",
+    "count": 1
+  }
+}

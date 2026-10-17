@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:felspat"
+    },
+    "b": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:ceramic_clay",
+    "count": 4
+  }
+}

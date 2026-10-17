@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:young_lotus_stem"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:young_lotus_stem_crate",
+    "count": 1
+  }
+}

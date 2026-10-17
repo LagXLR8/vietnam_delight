@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vietnam_delight:item/lotus_flower"
+  },
+  "render_type": "translucent"
+}

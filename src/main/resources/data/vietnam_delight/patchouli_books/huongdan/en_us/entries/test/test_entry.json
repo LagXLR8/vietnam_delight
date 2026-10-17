@@ -1,0 +1,11 @@
+{
+    "name": "Thu sach",
+    "icon": "minecraft:writable_book",
+    "category": "vietnam_delight:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "làm tí tiêu cho bệnh về hô hấp không người đẹp"
+        }
+    ]
+}

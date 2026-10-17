@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "vietnam_delight:block/flamboyant_leaves",
+    "particle": "vietnam_delight:block/flamboyant_leaves"
+  }
+}

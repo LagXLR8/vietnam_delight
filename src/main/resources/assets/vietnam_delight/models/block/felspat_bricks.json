@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/felspat_bricks",
+    "up": "vietnam_delight:block/felspat_bricks",
+    "north": "vietnam_delight:block/felspat_bricks",
+    "east": "vietnam_delight:block/felspat_bricks",
+    "south": "vietnam_delight:block/felspat_bricks",
+    "west": "vietnam_delight:block/felspat_bricks",
+    "particle": "vietnam_delight:block/felspat_bricks"
+  },
+  "render_type": "solid"
+}

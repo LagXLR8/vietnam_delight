@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "pattern": [
+    "S",
+    "F",
+    "H"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "F": {
+      "item": "vietnam_delight:hibiscus_flower"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:rage_candle",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "vietnam_delight:typed_mooncake_crafting",
+  "category": "misc",
+  "mooncake_type": "mung_bean",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:unbaked_mooncake"
+    },
+    {
+      "item": "vietnam_delight:mung_beans"
+    },
+    {
+      "item": "vietnam_delight:mung_beans"
+    },
+    {
+      "item": "vietnam_delight:mung_beans"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:unbaked_mooncake",
+    "count": 1
+  }
+}

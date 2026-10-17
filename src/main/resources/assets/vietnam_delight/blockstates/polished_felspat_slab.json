@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "vietnam_delight:block/polished_felspat_slab"
+    },
+    "type=top": {
+      "model": "vietnam_delight:block/polished_felspat_slab_top"
+    },
+    "type=double": {
+      "model": "vietnam_delight:block/polished_felspat"
+    }
+  }
+}

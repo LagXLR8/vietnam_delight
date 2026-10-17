@@ -1,0 +1,58 @@
+{
+  "feature": "vietnam_delight:wild_white_lotus_bud",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 25
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 6
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": ["minecraft:air"]
+          },
+          {
+            "type": "minecraft:any_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_fluids",
+                "offset": [0, -1, 0],
+                "fluids": ["minecraft:water"]
+              },
+              {
+                "type": "minecraft:matching_fluids",
+                "offset": [0, -2, 0],
+                "fluids": ["minecraft:water"]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:not",
+            "predicate": {
+              "type": "minecraft:matching_fluids",
+              "offset": [0, -3, 0],
+              "fluids": ["minecraft:water"]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

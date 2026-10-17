@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "vietnam_delight:durian_flesh"
+    },
+    [
+      {
+        "item": "farmersdelight:milk_bottle"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      },
+      {
+        "tag": "forge:milk"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:durian_ice_cream"
+  }
+}

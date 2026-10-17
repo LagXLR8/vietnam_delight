@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/overweight_ginger_bottom",
+    "up": "vietnam_delight:block/overweight_ginger_top",
+    "north": "vietnam_delight:block/overweight_ginger_side",
+    "east": "vietnam_delight:block/overweight_ginger_side",
+    "south": "vietnam_delight:block/overweight_ginger_side",
+    "west": "vietnam_delight:block/overweight_ginger_side",
+    "particle": "vietnam_delight:block/overweight_ginger_bottom"
+  },
+  "render_type": "cutout"
+}

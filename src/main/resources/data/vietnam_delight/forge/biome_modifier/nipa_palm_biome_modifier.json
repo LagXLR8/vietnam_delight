@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sparse_jungle",
+    "bamboo_jungle",
+    "jungle"
+  ],
+  "features": ["vietnam_delight:nipa_palm"],
+  "step": "surface_structures"
+}

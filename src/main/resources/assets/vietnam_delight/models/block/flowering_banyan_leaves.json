@@ -1,0 +1,34 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "leaves": "vietnam_delight:block/banyan_leaves",
+    "overlay": "vietnam_delight:block/flowering_banyan_leaves",
+    "particle": "vietnam_delight:block/banyan_leaves"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "texture": "#leaves", "tintindex": 0 },
+        "south": { "texture": "#leaves", "tintindex": 0 },
+        "east":  { "texture": "#leaves", "tintindex": 0 },
+        "west":  { "texture": "#leaves", "tintindex": 0 },
+        "up":    { "texture": "#leaves", "tintindex": 0 },
+        "down":  { "texture": "#leaves", "tintindex": 0 }
+      }
+    },
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "texture": "#overlay" },
+        "south": { "texture": "#overlay" },
+        "east":  { "texture": "#overlay" },
+        "west":  { "texture": "#overlay" },
+        "up":    { "texture": "#overlay" },
+        "down":  { "texture": "#overlay" }
+      }
+    }
+  ]
+}

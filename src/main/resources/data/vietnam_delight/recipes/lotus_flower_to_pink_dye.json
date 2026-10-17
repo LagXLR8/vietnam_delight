@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:lotus_flower"
+    }
+  },
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 1
+  }
+}

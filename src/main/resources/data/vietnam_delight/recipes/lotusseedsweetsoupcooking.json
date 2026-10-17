@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "vietnam_delight:lotus_seeds"
+    },
+    {
+      "item": "vietnam_delight:lotus_seeds"
+    },
+    {
+      "item": "vietnam_delight:pandan_leaf"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:lotus_seed_sweet_soup"
+  }
+}

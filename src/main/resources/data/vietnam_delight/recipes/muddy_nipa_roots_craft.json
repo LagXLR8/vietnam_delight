@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:nipa_roots"
+    },
+    {
+      "item": "minecraft:mud"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:muddy_nipa_roots",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/white_lotus_bud",
+  "textures": {
+    "all": "vietnam_delight:block/white_lotus_bud",
+    "particle": "vietnam_delight:block/white_lotus_bud",
+    "0": "vietnam_delight:block/white_lotus_bud",
+    "1": "vietnam_delight:block/lotus_lilypad_states_3"
+  },
+  "render_type": "cutout"
+}

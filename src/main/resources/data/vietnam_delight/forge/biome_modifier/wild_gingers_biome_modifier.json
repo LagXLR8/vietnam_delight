@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna_plateau",
+    "savanna",
+    "windswept_savanna",
+    "forest"
+  ],
+  "features": "vietnam_delight:wild_gingers",
+  "step": "vegetal_decoration"
+}

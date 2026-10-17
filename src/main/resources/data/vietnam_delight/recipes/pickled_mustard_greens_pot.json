@@ -1,0 +1,13 @@
+{
+  "type": "vietnam_delight:ceramic_clay_pot",
+  "ingredients": [
+    { "item": "farmersdelight:cabbage_leaf" },
+    { "item": "vietnam_delight:salt" }
+  ],
+  "result": {
+    "item": "vietnam_delight:pickled_mustard_greens",
+    "count": 1
+  },
+  "cookingtime": 150,
+  "experience": 3
+}

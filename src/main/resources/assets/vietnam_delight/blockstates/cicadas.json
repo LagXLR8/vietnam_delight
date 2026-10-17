@@ -1,0 +1,142 @@
+{
+  "variants": {
+    "facing=north,variant=normal": {
+      "model": "vietnam_delight:block/cicadas"
+    },
+    "facing=north,variant=couple": {
+      "model": "vietnam_delight:block/couple_cicadas"
+    },
+    "facing=north,variant=nerd": {
+      "model": "vietnam_delight:block/nerd_cicadas"
+    },
+    "facing=north,variant=rich": {
+      "model": "vietnam_delight:block/rich_cicadas"
+    },
+    "facing=north,variant=sad": {
+      "model": "vietnam_delight:block/sad_cicadas"
+    },
+    "facing=east,variant=normal": {
+      "model": "vietnam_delight:block/cicadas",
+      "y": 90
+    },
+    "facing=east,variant=couple": {
+      "model": "vietnam_delight:block/couple_cicadas",
+      "y": 90
+    },
+    "facing=east,variant=nerd": {
+      "model": "vietnam_delight:block/nerd_cicadas",
+      "y": 90
+    },
+    "facing=east,variant=rich": {
+      "model": "vietnam_delight:block/rich_cicadas",
+      "y": 90
+    },
+    "facing=east,variant=sad": {
+      "model": "vietnam_delight:block/sad_cicadas",
+      "y": 90
+    },
+    "facing=south,variant=normal": {
+      "model": "vietnam_delight:block/cicadas",
+      "y": 180
+    },
+    "facing=south,variant=couple": {
+      "model": "vietnam_delight:block/couple_cicadas",
+      "y": 180
+    },
+    "facing=south,variant=nerd": {
+      "model": "vietnam_delight:block/nerd_cicadas",
+      "y": 180
+    },
+    "facing=south,variant=rich": {
+      "model": "vietnam_delight:block/rich_cicadas",
+      "y": 180
+    },
+    "facing=south,variant=sad": {
+      "model": "vietnam_delight:block/sad_cicadas",
+      "y": 180
+    },
+    "facing=west,variant=normal": {
+      "model": "vietnam_delight:block/cicadas",
+      "y": 270
+    },
+    "facing=west,variant=couple": {
+      "model": "vietnam_delight:block/couple_cicadas",
+      "y": 270
+    },
+    "facing=west,variant=nerd": {
+      "model": "vietnam_delight:block/nerd_cicadas",
+      "y": 270
+    },
+    "facing=west,variant=rich": {
+      "model": "vietnam_delight:block/rich_cicadas",
+      "y": 270
+    },
+    "facing=west,variant=sad": {
+      "model": "vietnam_delight:block/sad_cicadas",
+      "y": 270
+    },
+    "facing=up,variant=normal": {
+      "model": "vietnam_delight:block/cicadas",
+      "x": 270
+    },
+    "facing=up,variant=couple": {
+      "model": "vietnam_delight:block/couple_cicadas",
+      "x": 270
+    },
+    "facing=up,variant=nerd": {
+      "model": "vietnam_delight:block/nerd_cicadas",
+      "x": 270
+    },
+    "facing=up,variant=rich": {
+      "model": "vietnam_delight:block/rich_cicadas",
+      "x": 270
+    },
+    "facing=up,variant=sad": {
+      "model": "vietnam_delight:block/sad_cicadas",
+      "x": 270
+    },
+    "facing=down,variant=normal": {
+      "model": "vietnam_delight:block/cicadas",
+      "x": 90
+    },
+    "facing=down,variant=couple": {
+      "model": "vietnam_delight:block/couple_cicadas",
+      "x": 90
+    },
+    "facing=down,variant=nerd": {
+      "model": "vietnam_delight:block/nerd_cicadas",
+      "x": 90
+    },
+    "facing=down,variant=rich": {
+      "model": "vietnam_delight:block/rich_cicadas",
+      "x": 90
+    },
+    "facing=down,variant=sad": {
+      "model": "vietnam_delight:block/sad_cicadas",
+      "x": 90
+    },
+    "facing=north,variant=happy": {
+      "model": "vietnam_delight:block/happy_cicadas"
+    },
+    "facing=east,variant=happy": {
+      "model": "vietnam_delight:block/happy_cicadas",
+      "y": 90
+    },
+    "facing=south,variant=happy": {
+      "model": "vietnam_delight:block/happy_cicadas",
+      "y": 180
+    },
+    "facing=west,variant=happy": {
+      "model": "vietnam_delight:block/happy_cicadas",
+      "y": 270
+    },
+    "facing=up,variant=happy": {
+      "model": "vietnam_delight:block/happy_cicadas",
+      "x": 270
+    },
+    "facing=down,variant=happy": {
+      "model": "vietnam_delight:block/happy_cicadas",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "vietnam_delight:block/arid_candle_holder"
+    },
+    "lit=true": {
+      "model": "vietnam_delight:block/arid_candle_holder_lit"
+    }
+  }
+}
+

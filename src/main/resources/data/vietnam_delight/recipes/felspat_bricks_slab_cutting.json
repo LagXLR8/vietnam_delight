@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "vietnam_delight:felspat_bricks"
+  },
+  "result": "vietnam_delight:felspat_brick_slab"
+}

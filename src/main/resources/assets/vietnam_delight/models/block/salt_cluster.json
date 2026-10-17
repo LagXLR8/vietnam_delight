@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/salt_cluster",
+    "particle": "vietnam_delight:block/salt_cluster"
+  },
+  "render_type": "cutout_mipped"
+}

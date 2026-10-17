@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/cicadas",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:cicadas",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "vietnam_delight:cicadas",
+              "properties": {
+                "variant": "couple"
+              }
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:cicadas",
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:block_state_property",
+                "block": "vietnam_delight:cicadas",
+                "properties": {
+                  "variant": "couple"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

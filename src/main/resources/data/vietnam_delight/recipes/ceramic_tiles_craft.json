@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:ceramic_clay_block"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:ceramic_tiles",
+    "count": 1
+  }
+}

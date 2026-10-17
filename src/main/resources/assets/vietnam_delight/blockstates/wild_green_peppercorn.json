@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "vietnam_delight:block/wild_green_peppercorn" },
+    "facing=south": { "model": "vietnam_delight:block/wild_green_peppercorn", "y": 180 },
+    "facing=west":  { "model": "vietnam_delight:block/wild_green_peppercorn", "y": 270 },
+    "facing=east":  { "model": "vietnam_delight:block/wild_green_peppercorn", "y": 90 }
+  }
+}

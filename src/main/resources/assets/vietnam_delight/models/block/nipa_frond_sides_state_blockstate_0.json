@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/nipa_stem_side",
+  "textures": {
+    "all": "vietnam_delight:block/nipa_stem",
+    "particle": "vietnam_delight:block/nipa_frond_4",
+    "0": "vietnam_delight:block/nipa_root",
+    "1": "vietnam_delight:block/nipa_stem"
+  },
+  "render_type": "cutout_mipped"
+}

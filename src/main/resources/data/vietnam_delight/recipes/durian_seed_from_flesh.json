@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:durian_flesh"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:durian_seed",
+    "count": 1
+  }
+}

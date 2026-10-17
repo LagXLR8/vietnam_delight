@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:flamboyant_petals"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 1
+  }
+}

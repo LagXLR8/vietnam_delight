@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "vietnam_delight:block/lime_tree"
+    },
+    "blockstate=1": {
+      "model": "vietnam_delight:block/lime_tree_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "vietnam_delight:block/lime_tree_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "vietnam_delight:block/lime_tree_states_blockstate_2"
+    }
+  }
+}

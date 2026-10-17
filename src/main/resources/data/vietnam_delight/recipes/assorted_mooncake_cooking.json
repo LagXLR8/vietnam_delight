@@ -1,0 +1,11 @@
+{
+  "type": "vietnam_delight:typed_mooncake_smelting",
+  "category": "misc",
+  "experience": 4,
+  "cookingtime": 200,
+  "required_type": "assorted",
+  "ingredient": {
+    "item": "vietnam_delight:unbaked_mooncake"
+  },
+  "result": "vietnam_delight:assorted_mooncake"
+}

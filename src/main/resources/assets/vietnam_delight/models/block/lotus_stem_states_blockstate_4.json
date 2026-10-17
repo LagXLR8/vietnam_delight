@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/lotus_leaf_states_2",
+  "textures": {
+    "all": "vietnam_delight:block/lotus_lilypad_states_3",
+    "particle": "vietnam_delight:block/lotus_leaf",
+    "0": "vietnam_delight:block/lotus_stem_states_1",
+    "1": "vietnam_delight:block/lotus_lilypad_states_3",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout"
+}

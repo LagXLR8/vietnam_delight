@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "vietnam_delight:ceramic_clay_block"
+  },
+  "result": "vietnam_delight:ceramic_clay_stairs"
+}

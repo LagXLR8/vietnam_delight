@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/salt_lantern_hanging",
+  "textures": {
+    "all": "vietnam_delight:block/salt_lantern",
+    "particle": "vietnam_delight:block/salt_lantern",
+    "lantern": "vietnam_delight:block/salt_lantern"
+  },
+  "render_type": "cutout_mipped"
+}

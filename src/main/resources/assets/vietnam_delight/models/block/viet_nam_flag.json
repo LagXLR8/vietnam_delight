@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/vietnam_flag",
+  "textures": {
+    "all": "vietnam_delight:block/vietnam_flag",
+    "particle": "vietnam_delight:block/vietnam_flag",
+    "1": "vietnam_delight:block/vietnam_flag"
+  },
+  "render_type": "cutout_mipped"
+}

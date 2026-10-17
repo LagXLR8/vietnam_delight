@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:mutton_chops"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "vietnam_delight:scallion"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+    {
+      "item": "vietnam_delight:lime_slice"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:sweet_and_sour_pork_ribs"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:banana_leaf"
+    },
+    {
+      "item": "vietnam_delight:banana_bark"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:banana_boat",
+    "count": 1
+  }
+}

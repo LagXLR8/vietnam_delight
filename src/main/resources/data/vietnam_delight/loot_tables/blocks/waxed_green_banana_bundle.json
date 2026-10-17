@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/waxed_green_banana_bundle",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:waxed_green_banana_bundle"
+        }
+      ]
+    }
+  ]
+}

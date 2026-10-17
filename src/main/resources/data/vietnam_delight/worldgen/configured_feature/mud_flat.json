@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 1000,
+    "xz_spread": 10,
+    "y_spread": 4,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "weight": 10,
+                "data": {
+                  "Name": "minecraft:mud"
+                }
+              },
+              {
+                "weight": 3,
+                "data": {
+                  "Name": "minecraft:coarse_dirt"
+                }
+              },
+              {
+                "weight": 2,
+                "data": {
+                  "Name": "minecraft:gravel"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "blocks": [
+              "minecraft:dirt",
+              "minecraft:coarse_dirt",
+              "minecraft:grass_block",
+              "minecraft:sand",
+              "minecraft:gravel"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

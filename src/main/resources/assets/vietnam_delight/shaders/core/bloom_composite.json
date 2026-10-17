@@ -1,0 +1,15 @@
+{
+    "vertex": "vietnam_delight:bloom_composite",
+    "fragment": "vietnam_delight:bloom_composite",
+    "samplers": [
+        { "name": "Sampler0" },
+        { "name": "Sampler1" },
+        { "name": "Sampler2" }
+    ],
+    "uniforms": [
+        { "name": "ScreenSize", "type": "float", "count": 2, "values": [ 1.0, 1.0 ] },
+        { "name": "Strength", "type": "float", "count": 1, "values": [ 1.5 ] },
+        { "name": "ProjA", "type": "float", "count": 1, "values": [ 1.0 ] },
+        { "name": "ProjB", "type": "float", "count": 1, "values": [ 1.0 ] }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/plum_log4",
+    "up": "vietnam_delight:block/plum_log4",
+    "north": "vietnam_delight:block/plum_log4",
+    "east": "vietnam_delight:block/plum_log4",
+    "south": "vietnam_delight:block/plum_log4",
+    "west": "vietnam_delight:block/plum_log4",
+    "particle": "vietnam_delight:block/plum_log4"
+  },
+  "render_type": "solid"
+}

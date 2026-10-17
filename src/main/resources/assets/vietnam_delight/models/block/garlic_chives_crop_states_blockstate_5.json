@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/garlic_chives_6",
+  "textures": {
+    "all": "vietnam_delight:block/garlic_chives_flower",
+    "particle": "vietnam_delight:block/garlic_chives_0",
+    "0": "vietnam_delight:block/garlic_chives_6",
+    "1": "vietnam_delight:block/garlic_chives_flower",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout"
+}

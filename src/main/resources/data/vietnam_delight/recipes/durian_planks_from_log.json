@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:durian_log"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:durian_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/wild_bird_eye_chilis",
+    "particle": "vietnam_delight:block/wild_bird_eye_chilis"
+  },
+  "render_type": "cutout"
+}

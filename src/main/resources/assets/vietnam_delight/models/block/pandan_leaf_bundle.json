@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/pandan_leaf_bundle_bottom",
+    "up": "vietnam_delight:block/pandan_leaf_bundle_top",
+    "north": "vietnam_delight:block/pandan_leaf_bundle_side",
+    "east": "vietnam_delight:block/pandan_leaf_bundle_side",
+    "south": "vietnam_delight:block/pandan_leaf_bundle_side",
+    "west": "vietnam_delight:block/pandan_leaf_bundle_side",
+    "particle": "vietnam_delight:block/pandan_leaf_bundle_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/banyan_roots",
+    "particle": "vietnam_delight:block/banyan_roots"
+  },
+  "render_type": "cutout_mipped"
+}

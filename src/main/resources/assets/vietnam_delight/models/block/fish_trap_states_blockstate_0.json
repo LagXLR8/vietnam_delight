@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/fish_trap_hanging",
+  "textures": {
+    "all": "vietnam_delight:block/fish_trap_side",
+    "particle": "vietnam_delight:block/fish_trap_side",
+    "0": "vietnam_delight:block/fish_trap_side",
+    "1": "vietnam_delight:block/fish_trap_top",
+    "2": "vietnam_delight:block/fish_trap_chain"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vietnam_delight:block/flowering_lemon_tree_trunk"
+  }
+}

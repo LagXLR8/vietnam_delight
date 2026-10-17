@@ -1,0 +1,57 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"render_type": "cutout",
+	"textures": {
+		"0": "vietnam_delight:block/candle_holder",
+		"particle": "vietnam_delight:block/candle_holder"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 1, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"up": {"uv": [0, 0, 6, 6], "texture": "#0"},
+				"down": {"uv": [0, 6, 6, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0, 4.99],
+			"to": [11, 3, 4.99],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.5, 7.99]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 3], "texture": "#0"},
+				"south": {"uv": [6, 3, 12, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0, 11.01],
+			"to": [11, 3, 11.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.5, 14.01]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 3], "texture": "#0"},
+				"south": {"uv": [6, 3, 12, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.99, 0, 5],
+			"to": [4.99, 3, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.99, 1.5, 8]},
+			"faces": {
+				"east": {"uv": [6, 3, 12, 6], "texture": "#0"},
+				"west": {"uv": [6, 0, 12, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.01, 0, 5],
+			"to": [11.01, 3, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.01, 1.5, 8]},
+			"faces": {
+				"east": {"uv": [6, 3, 12, 6], "texture": "#0"},
+				"west": {"uv": [6, 0, 12, 3], "texture": "#0"}
+			}
+		}
+	]
+}

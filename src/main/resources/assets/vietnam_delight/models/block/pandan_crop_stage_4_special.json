@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/pandan_stage_model_4",
+  "textures": {
+    "all": "vietnam_delight:block/pandan_stage_model_4",
+    "particle": "vietnam_delight:block/pandan_stage_0",
+    "0": "vietnam_delight:block/pandan_stage_model_4"
+  },
+  "render_type": "cutout"
+}

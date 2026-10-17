@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "birch_forest",
+    "flower_forest",
+    "forest"
+  ],
+  "features": "vietnam_delight:wild_kumquat_bush",
+  "step": "vegetal_decoration"
+}

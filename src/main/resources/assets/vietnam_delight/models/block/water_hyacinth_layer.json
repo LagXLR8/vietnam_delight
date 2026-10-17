@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/water_hyacinth_layer",
+    "up": "vietnam_delight:block/water_hyacinth_layer",
+    "north": "vietnam_delight:block/water_hyacinth_layer",
+    "east": "vietnam_delight:block/water_hyacinth_layer",
+    "south": "vietnam_delight:block/water_hyacinth_layer",
+    "west": "vietnam_delight:block/water_hyacinth_layer",
+    "particle": "vietnam_delight:block/water_hyacinth_layer"
+  },
+  "render_type": "solid"
+}

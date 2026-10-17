@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "savanna",
+    "savanna_plateau",
+    "jungle",
+    "sparse_jungle"
+  ],
+  "features": "vietnam_delight:wild_turmeric",
+  "step": "vegetal_decoration"
+}

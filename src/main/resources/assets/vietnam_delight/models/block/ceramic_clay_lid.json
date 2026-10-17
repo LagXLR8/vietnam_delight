@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/ceramic_clay_lid",
+  "textures": {
+    "all": "vietnam_delight:block/ceramic_clay_pot_top",
+    "particle": "vietnam_delight:block/ceramic_clay_pot_top",
+    "0": "vietnam_delight:block/ceramic_clay_pot_lid_top",
+    "1": "vietnam_delight:block/ceramic_clay_pot_top",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "solid"
+}

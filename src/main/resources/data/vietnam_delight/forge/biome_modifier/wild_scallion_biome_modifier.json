@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "jungle",
+    "sparse_jungle",
+    "river",
+    "forest"
+  ],
+  "features": "vietnam_delight:wild_scallion",
+  "step": "vegetal_decoration"
+}

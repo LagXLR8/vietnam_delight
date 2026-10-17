@@ -1,0 +1,12 @@
+{
+  "parent": "vietnam_delight:custom/banana_flower",
+  "textures": {
+    "all": "vietnam_delight:block/banana_flower",
+    "particle": "vietnam_delight:block/banana_flower_state_0",
+    "0": "vietnam_delight:block/banana_flower",
+    "1": "vietnam_delight:block/banana_flower_leaf",
+    "2": "vietnam_delight:block/banana_flower_leaf_2",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "vietnam_delight:felspat_block"
+  },
+  "result": "vietnam_delight:polished_felspat"
+}

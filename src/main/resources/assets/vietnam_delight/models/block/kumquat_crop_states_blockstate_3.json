@@ -1,0 +1,12 @@
+{
+  "parent": "vietnam_delight:custom/small_kumquat_bush",
+  "textures": {
+    "all": "vietnam_delight:block/small_kumquat_bush_plant",
+    "particle": "vietnam_delight:block/kumquat_stage_0",
+    "0": "vietnam_delight:block/small_kumquat_bush_plant",
+    "1": "vietnam_delight:block/small_kumquat_bush_side",
+    "2": "vietnam_delight:block/small_kumquat_bush_top",
+    "missing": "vietnam_delight:block/"
+  },
+  "render_type": "cutout"
+}

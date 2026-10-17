@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/arid_candle_holder",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:candle_holder"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:arid_candle"
+        }
+      ]
+    }
+  ]
+}
+

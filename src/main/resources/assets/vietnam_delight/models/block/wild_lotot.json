@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/lotot_state5",
+  "textures": {
+    "all": "vietnam_delight:block/lolot_stage_5",
+    "particle": "vietnam_delight:block/lolot_stage_5",
+    "0": "vietnam_delight:block/lolot_stage_5",
+    "1": "vietnam_delight:block/lolot_leaf_stage_5"
+  },
+  "render_type": "cutout"
+}

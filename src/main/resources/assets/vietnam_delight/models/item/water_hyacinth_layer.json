@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vietnam_delight:item/bunch_of_water_hyacinth"
+  },
+  "render_type": "translucent"
+}

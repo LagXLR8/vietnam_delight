@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "vietnam_delight:banana_rhizome"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "vietnam_delight:garlic"
+    },
+    {
+      "item": "vietnam_delight:scallion"
+    },
+    {
+      "tag": "vietnam_delight:peppercorns"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:stirfried_banana_rhizome"
+  }
+}

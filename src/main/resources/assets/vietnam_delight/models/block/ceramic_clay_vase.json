@@ -1,0 +1,11 @@
+{
+  "parent": "vietnam_delight:custom/ceramic_clay_vase",
+  "textures": {
+    "all": "vietnam_delight:block/ceramic_clay_vase",
+    "particle": "vietnam_delight:block/ceramic_clay_vase",
+    "0": "vietnam_delight:block/ceramic_clay_vase",
+    "1": "vietnam_delight:block/ceramic_clay_vase_top",
+    "2": "minecraft:block/dirt"
+  },
+  "render_type": "solid"
+}

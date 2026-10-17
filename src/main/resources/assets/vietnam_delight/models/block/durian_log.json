@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vietnam_delight:block/durian_log_top",
+    "side": "vietnam_delight:block/durian_log"
+  }
+}

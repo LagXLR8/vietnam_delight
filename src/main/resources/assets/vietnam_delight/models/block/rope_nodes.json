@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/rope_node",
+  "textures": {
+    "all": "vietnam_delight:block/rope_node",
+    "particle": "vietnam_delight:block/rope_node",
+    "0": "vietnam_delight:block/rope_node",
+    "missing": "vietnam_delight:block/rope_node"
+  },
+  "render_type": "cutout"
+}

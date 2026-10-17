@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:banana"
+    },
+    "b": {
+      "tag": "forge:dough"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:banana_powder",
+    "count": 1
+  }
+}

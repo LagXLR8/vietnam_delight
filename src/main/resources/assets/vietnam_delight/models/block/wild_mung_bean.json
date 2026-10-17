@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "vietnam_delight:block/wild_mung_bean",
+    "particle": "vietnam_delight:block/wild_mung_bean"
+  },
+  "render_type": "cutout"
+}

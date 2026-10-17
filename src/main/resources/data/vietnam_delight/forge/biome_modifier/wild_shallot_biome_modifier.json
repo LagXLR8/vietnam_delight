@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "jungle",
+    "meadow"
+  ],
+  "features": "vietnam_delight:wild_shallot",
+  "step": "vegetal_decoration"
+}

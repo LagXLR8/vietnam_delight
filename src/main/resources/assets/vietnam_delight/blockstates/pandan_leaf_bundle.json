@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "vietnam_delight:block/pandan_leaf_bundle",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "vietnam_delight:block/pandan_leaf_bundle"
+    },
+    "axis=z": {
+      "model": "vietnam_delight:block/pandan_leaf_bundle",
+      "x": 90
+    }
+  }
+}

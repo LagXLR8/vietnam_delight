@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:lime"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "vietnam_delight:lime_slice"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

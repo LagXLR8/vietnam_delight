@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "vietnam_delight:block/lotus_flower"
+    },
+    "blockstate=1": {
+      "model": "vietnam_delight:block/lotus_flower_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "vietnam_delight:block/lotus_flower_states_blockstate_1"
+    }
+  }
+}

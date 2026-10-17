@@ -1,0 +1,35 @@
+{
+  "variants": {
+    "facing=north,hanging=false": { 
+      "model": "vietnam_delight:block/star_lantern"
+    },
+    "facing=south,hanging=false": { 
+      "model": "vietnam_delight:block/star_lantern",
+      "y": 180
+    },
+    "facing=west,hanging=false": { 
+      "model": "vietnam_delight:block/star_lantern",
+      "y": 90
+    },
+    "facing=east,hanging=false": { 
+      "model": "vietnam_delight:block/star_lantern",
+      "y": 270
+    },
+    
+    "facing=north,hanging=true": { 
+      "model": "vietnam_delight:block/hanging_star_lanterns"
+    },
+    "facing=south,hanging=true": { 
+      "model": "vietnam_delight:block/hanging_star_lanterns",
+      "y": 180
+    },
+    "facing=west,hanging=true": { 
+      "model": "vietnam_delight:block/hanging_star_lanterns",
+      "y": 90
+    },
+    "facing=east,hanging=true": { 
+      "model": "vietnam_delight:block/hanging_star_lanterns",
+      "y": 270
+    }
+  }
+}

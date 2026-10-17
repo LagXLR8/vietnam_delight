@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "vietnam_delight:block/fish_trap"
+    },
+    "facing=east,blockstate=0": {
+      "model": "vietnam_delight:block/fish_trap",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "vietnam_delight:block/fish_trap",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "vietnam_delight:block/fish_trap",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "vietnam_delight:block/fish_trap_states_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "vietnam_delight:block/fish_trap_states_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "vietnam_delight:block/fish_trap_states_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "vietnam_delight:block/fish_trap_states_blockstate_0",
+      "y": 270
+    }
+  }
+}

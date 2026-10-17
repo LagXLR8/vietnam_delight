@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/golden_flamboyant_sapling",
+    "particle": "vietnam_delight:block/golden_flamboyant_sapling"
+  },
+  "render_type": "cutout_mipped"
+}

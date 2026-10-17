@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "bamboo_jungle",
+    "jungle",
+    "sparse_jungle"
+  ],
+  "features": "vietnam_delight:wild_mung_bean",
+  "step": "vegetal_decoration"
+}

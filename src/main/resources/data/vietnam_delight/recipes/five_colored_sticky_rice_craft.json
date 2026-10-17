@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:coconut_sticky_rice"
+    },
+    {
+      "item": "vietnam_delight:gac_sticky_rice"
+    },
+    {
+      "item": "vietnam_delight:green_sticky_rice"
+    },
+    {
+      "item": "vietnam_delight:mung_bean_sticky_rice"
+    },
+    {
+      "item": "vietnam_delight:purple_sticky_rice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:five_colored_sticky_rice"
+  }
+}

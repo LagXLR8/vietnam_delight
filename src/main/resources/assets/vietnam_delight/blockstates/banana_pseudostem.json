@@ -1,0 +1,88 @@
+{
+  "variants": {
+    "axis=x,blockstate=0": {
+      "model": "vietnam_delight:block/banana_pseudostem",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=0": {
+      "model": "vietnam_delight:block/banana_pseudostem"
+    },
+    "axis=z,blockstate=0": {
+      "model": "vietnam_delight:block/banana_pseudostem",
+      "x": 90
+    },
+    "axis=x,blockstate=1": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_0",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=1": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_0"
+    },
+    "axis=z,blockstate=1": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_0",
+      "x": 90
+    },
+    "axis=x,blockstate=2": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_1",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=2": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_1"
+    },
+    "axis=z,blockstate=2": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_1",
+      "x": 90
+    },
+    "axis=x,blockstate=3": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_2",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=3": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_2"
+    },
+    "axis=z,blockstate=3": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_2",
+      "x": 90
+    },
+    "axis=x,blockstate=4": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_3",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=4": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_3"
+    },
+    "axis=z,blockstate=4": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_3",
+      "x": 90
+    },
+    "axis=x,blockstate=5": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_4",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=5": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_4"
+    },
+    "axis=z,blockstate=5": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_4",
+      "x": 90
+    },
+    "axis=x,blockstate=6": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_5",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=6": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_5"
+    },
+    "axis=z,blockstate=6": {
+      "model": "vietnam_delight:block/banana_pseudostem_states_blockstate_5",
+      "x": 90
+    }
+  }
+}

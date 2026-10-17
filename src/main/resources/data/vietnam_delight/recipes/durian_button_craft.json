@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:durian_planks"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:durian_button",
+    "count": 1
+  }
+}

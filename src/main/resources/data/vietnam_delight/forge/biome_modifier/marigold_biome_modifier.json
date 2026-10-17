@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna",
+    "plains",
+    "sunflower_plains"
+  ],
+  "features": "vietnam_delight:marigold",
+  "step": "vegetal_decoration"
+}

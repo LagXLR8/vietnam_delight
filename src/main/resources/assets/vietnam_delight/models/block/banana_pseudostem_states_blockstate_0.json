@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/banana_pseudostem_top_2",
+    "up": "vietnam_delight:block/banana_pseudostem_top_2",
+    "north": "vietnam_delight:block/banana_pseudostem",
+    "east": "vietnam_delight:block/banana_pseudostem",
+    "south": "vietnam_delight:block/banana_pseudostem",
+    "west": "vietnam_delight:block/banana_pseudostem",
+    "particle": "vietnam_delight:block/banana_pseudostem"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "jungle",
+    "sparse_jungle",
+    "birch_forest",
+    "mangrove_swamp",
+    "swamp",
+    "river"
+  ],
+  "features": "vietnam_delight:wild_pandan",
+  "step": "vegetal_decoration"
+}

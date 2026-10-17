@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:nipa_fruit"
+    }
+  ],
+  "result": [
+    {
+      "count": 9,
+      "item": "vietnam_delight:nipa_nut"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip",
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  }
+}

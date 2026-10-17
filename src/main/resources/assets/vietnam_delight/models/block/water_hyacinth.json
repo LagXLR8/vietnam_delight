@@ -1,0 +1,12 @@
+{
+  "parent": "vietnam_delight:custom/water_hyacinth",
+  "textures": {
+    "all": "vietnam_delight:block/water_hyacinth",
+    "particle": "vietnam_delight:block/water_hyacinth",
+    "4": "vietnam_delight:block/water_hyacinth",
+    "5": "vietnam_delight:block/water_hyacinth_top",
+    "6": "vietnam_delight:block/water_hyacinth_root",
+    "7": "vietnam_delight:block/water_hyacinth_stem"
+  },
+  "render_type": "cutout"
+}

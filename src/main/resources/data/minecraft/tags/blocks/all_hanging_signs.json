@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:ceiling_hanging_signs",
+    "#minecraft:wall_hanging_signs",
+    "vietnam_delight:flamboyant_hanging_sign",
+    "vietnam_delight:flamboyant_wall_hanging_sign"
+  ]
+}

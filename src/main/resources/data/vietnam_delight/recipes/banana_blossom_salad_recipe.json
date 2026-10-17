@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "vietnam_delight:banana_blossom_shredded"
+    },
+    {
+      "item": "vietnam_delight:garlic_chives"
+    },
+    {
+      "item": "vietnam_delight:shallot"
+    },
+    {
+      "item": "vietnam_delight:bird_eye_chilis"
+    },
+    {
+      "item": "vietnam_delight:scallion"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:banana_blossom_salad",
+    "count": 1
+  }
+}

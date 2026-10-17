@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/banana_rhizome_root",
+    "up": "vietnam_delight:block/banana_rhizome_root",
+    "north": "vietnam_delight:block/banana_root",
+    "east": "vietnam_delight:block/banana_root",
+    "south": "vietnam_delight:block/banana_root",
+    "west": "vietnam_delight:block/banana_root",
+    "particle": "vietnam_delight:block/banana_root"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "vietnam_delight:block/felspat_bricks"
+  }
+}

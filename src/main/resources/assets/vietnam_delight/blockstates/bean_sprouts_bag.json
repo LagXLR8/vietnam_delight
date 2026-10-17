@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vietnam_delight:block/bean_sprouts_bag"
+    },
+    "facing=east": {
+      "model": "vietnam_delight:block/bean_sprouts_bag",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vietnam_delight:block/bean_sprouts_bag",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vietnam_delight:block/bean_sprouts_bag",
+      "y": 270
+    }
+  }
+}

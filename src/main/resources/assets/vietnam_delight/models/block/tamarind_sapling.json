@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/tamarind_sapling",
+    "particle": "vietnam_delight:block/tamarind_sapling"
+  },
+  "render_type": "cutout_mipped"
+}

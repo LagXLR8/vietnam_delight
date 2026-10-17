@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/star_lanterns",
+  "textures": {
+    "all": "vietnam_delight:block/star_lanterns",
+    "particle": "vietnam_delight:block/star_lanterns",
+    "0": "vietnam_delight:block/star_lanterns"
+  },
+  "render_type": "cutout"
+}

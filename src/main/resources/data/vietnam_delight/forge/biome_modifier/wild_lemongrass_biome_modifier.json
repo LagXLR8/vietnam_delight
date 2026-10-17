@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "jungle",
+    "sparse_jungle",
+    "taiga"
+  ],
+  "features": "vietnam_delight:wild_lemongrass",
+  "step": "vegetal_decoration"
+}

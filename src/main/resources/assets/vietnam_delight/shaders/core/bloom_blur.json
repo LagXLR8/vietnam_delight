@@ -1,0 +1,15 @@
+{
+    "vertex": "vietnam_delight:bloom_blur",
+    "fragment": "vietnam_delight:bloom_blur",
+    "samplers": [
+        { "name": "Sampler0" },
+        { "name": "Sampler1" }
+    ],
+    "uniforms": [
+        { "name": "ScreenSize", "type": "float", "count": 2, "values": [ 1.0, 1.0 ] },
+        { "name": "BlurDir", "type": "float", "count": 2, "values": [ 1.0, 0.0 ] },
+        { "name": "Radius", "type": "float", "count": 1, "values": [ 4.0 ] },
+        { "name": "ProjA", "type": "float", "count": 1, "values": [ 1.0 ] },
+        { "name": "ProjB", "type": "float", "count": 1, "values": [ 1.0 ] }
+    ]
+}

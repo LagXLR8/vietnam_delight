@@ -1,0 +1,10 @@
+{
+  "parent": "vietnam_delight:custom/ceramic_plate",
+  "textures": {
+    "all": "vietnam_delight:block/ceramic_plate_buttom",
+    "particle": "vietnam_delight:block/ceramic_plate_buttom",
+    "0": "vietnam_delight:block/ceramic_plate_buttom",
+    "1": "vietnam_delight:block/ceramic_plate_top"
+  },
+  "render_type": "solid"
+}

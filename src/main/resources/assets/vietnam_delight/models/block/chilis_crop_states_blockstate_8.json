@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/bird_eye_chilis_states_8",
+  "textures": {
+    "all": "vietnam_delight:block/bird_eye_chilis_states_8",
+    "particle": "vietnam_delight:block/bird_eye_chilis_state_0",
+    "1": "vietnam_delight:block/bird_eye_chilis_states_8"
+  },
+  "render_type": "cutout"
+}

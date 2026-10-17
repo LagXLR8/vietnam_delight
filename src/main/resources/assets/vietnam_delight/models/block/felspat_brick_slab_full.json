@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "vietnam_delight:block/felspat_bricks",
+    "bottom": "vietnam_delight:block/felspat_bricks",
+    "top": "vietnam_delight:block/felspat_bricks",
+    "side": "vietnam_delight:block/felspat_bricks"
+  },
+  "render_type": "solid"
+}

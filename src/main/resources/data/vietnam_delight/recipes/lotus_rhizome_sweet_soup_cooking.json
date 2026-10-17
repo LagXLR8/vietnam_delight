@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "vietnam_delight:lotus_rhizome_slice"
+    },
+    {
+      "item": "vietnam_delight:pandan_leaf"
+    },
+    {
+      "item": "vietnam_delight:lotus_seeds"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "vietnam_delight:lotus_rhizome_sweet_soup"
+  }
+}

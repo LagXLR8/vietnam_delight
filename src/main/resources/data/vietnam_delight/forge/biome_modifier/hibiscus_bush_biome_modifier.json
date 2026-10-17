@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sparse_jungle",
+    "mangrove_swamp"
+  ],
+  "features": "vietnam_delight:hibiscus_bush",
+  "step": "vegetal_decoration"
+}

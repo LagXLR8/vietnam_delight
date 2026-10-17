@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    {
+      "item": "vietnam_delight:salted_egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    [
+      {
+        "item": "vietnam_delight:durian_flesh"
+      },
+      {
+        "item": "vietnam_delight:mung_beans"
+      }
+    ]
+  ],
+  "result": {
+    "item": "vietnam_delight:pia_cake",
+    "count": 1
+  }
+}

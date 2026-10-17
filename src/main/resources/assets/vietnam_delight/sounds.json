@@ -1,0 +1,34 @@
+{
+  "pick_fruit_1": {
+    "sounds": [
+      {
+        "name": "vietnam_delight:pick1",
+        "stream": false
+      }
+    ]
+  },
+  "pick_fruit_2": {
+    "sounds": [
+      {
+        "name": "vietnam_delight:pick2",
+        "stream": false
+      }
+    ]
+  },
+  "crack_1": {
+    "sounds": [
+      {
+        "name": "vietnam_delight:crack_1",
+        "stream": false
+      }
+    ]
+  },
+  "crack_2": {
+    "sounds": [
+      {
+        "name": "vietnam_delight:crack_2",
+        "stream": false
+      }
+    ]
+  }
+}

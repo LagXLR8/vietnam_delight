@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "vietnam_delight:block/flamboyant_pressure_plate"
+    },
+    "powered=true": {
+      "model": "vietnam_delight:block/flamboyant_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "neapolitan:banana_frond"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "vietnam_delight:clean_banana_frond"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

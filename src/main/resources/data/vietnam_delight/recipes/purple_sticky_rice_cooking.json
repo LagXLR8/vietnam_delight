@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    [
+      {
+        "item": "minecraft:purple_dye"
+      },
+      {
+        "item": "vietnam_delight:purple_lotus_flower"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:purple_sticky_rice"
+  }
+}

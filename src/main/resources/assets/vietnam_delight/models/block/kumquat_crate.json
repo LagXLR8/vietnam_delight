@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/crate_bottom",
+    "up": "vietnam_delight:block/kumquat_crate_top",
+    "north": "vietnam_delight:block/kumquat_crate_side",
+    "east": "vietnam_delight:block/kumquat_crate_side",
+    "south": "vietnam_delight:block/kumquat_crate_side",
+    "west": "vietnam_delight:block/kumquat_crate_side",
+    "particle": "vietnam_delight:block/crate_bottom"
+  },
+  "render_type": "solid"
+}

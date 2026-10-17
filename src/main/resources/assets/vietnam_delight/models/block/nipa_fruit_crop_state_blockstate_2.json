@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "vietnam_delight:block/nipa_fruit_state3",
+    "particle": "vietnam_delight:block/nipa_fruit_state0"
+  },
+  "render_type": "cutout_mipped"
+}

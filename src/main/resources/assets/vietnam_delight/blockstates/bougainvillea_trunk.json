@@ -1,0 +1,190 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_core"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_arm"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_arm",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_arm",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_arm",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_arm",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_trunk_arm",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "leaf": "bougainvillea"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/bougainvillea_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "orange"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/flowering_orange_bougainvillea_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "pink"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/flowering_pink_bougainvillea_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "white"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/white_bougainvillea_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "hibiscus"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/hibiscus_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "flowering_hibiscus"
+      },
+      "apply": {
+        "model": "vietnam_delight:block/flowering_hibiscus_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "oak"
+      },
+      "apply": {
+        "model": "minecraft:block/oak_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "spruce"
+      },
+      "apply": {
+        "model": "minecraft:block/spruce_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "birch"
+      },
+      "apply": {
+        "model": "minecraft:block/birch_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "jungle"
+      },
+      "apply": {
+        "model": "minecraft:block/jungle_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "acacia"
+      },
+      "apply": {
+        "model": "minecraft:block/acacia_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "dark_oak"
+      },
+      "apply": {
+        "model": "minecraft:block/dark_oak_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "mangrove"
+      },
+      "apply": {
+        "model": "minecraft:block/mangrove_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "cherry"
+      },
+      "apply": {
+        "model": "minecraft:block/cherry_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "azalea"
+      },
+      "apply": {
+        "model": "minecraft:block/azalea_leaves"
+      }
+    },
+    {
+      "when": {
+        "leaf": "flowering_azalea"
+      },
+      "apply": {
+        "model": "minecraft:block/flowering_azalea_leaves"
+      }
+    }
+  ]
+}

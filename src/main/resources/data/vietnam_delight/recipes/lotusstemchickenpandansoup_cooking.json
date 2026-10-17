@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "vietnam_delight:lotus_seeds"
+    },
+    {
+      "item": "vietnam_delight:lotus_rhizome_slice"
+    },
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "vietnam_delight:pandan_leaf"
+    },
+    {
+      "tag": "forge:vegetables"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:lotus_stem_chicken_pandan_soup"
+  }
+}

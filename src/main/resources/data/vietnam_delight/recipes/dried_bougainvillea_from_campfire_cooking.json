@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "vietnam_delight:bougainvillea"
+  },
+  "result": "vietnam_delight:dried_bougainvillea"
+}

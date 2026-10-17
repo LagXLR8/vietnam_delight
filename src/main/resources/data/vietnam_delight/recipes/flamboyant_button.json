@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "vietnam_delight:flamboyant_planks"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:flamboyant_button"
+  }
+}

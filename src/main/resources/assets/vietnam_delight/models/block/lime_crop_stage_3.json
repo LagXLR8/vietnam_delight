@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "render_type": "cutout",
+  "textures": {
+    "cross": "vietnam_delight:block/lemon_stage_3",
+    "particle": "vietnam_delight:block/lemon_stage_0"
+  }
+}

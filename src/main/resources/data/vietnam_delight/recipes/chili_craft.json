@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:bird_eye_chilis_crate"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:bird_eye_chilis",
+    "count": 9
+  }
+}

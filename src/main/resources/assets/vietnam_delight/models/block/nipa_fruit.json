@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vietnam_delight:block/nipa_fruit_buttom",
+    "up": "vietnam_delight:block/nipa_fruit_top",
+    "north": "vietnam_delight:block/nipa_fruit_side",
+    "east": "vietnam_delight:block/nipa_fruit_side",
+    "south": "vietnam_delight:block/nipa_fruit_side",
+    "west": "vietnam_delight:block/nipa_fruit_side",
+    "particle": "vietnam_delight:block/nipa_fruit_buttom"
+  },
+  "render_type": "solid"
+}

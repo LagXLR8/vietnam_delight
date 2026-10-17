@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/mud",
+    "up": "minecraft:block/mud",
+    "north": "vietnam_delight:block/lotus_root",
+    "east": "vietnam_delight:block/lotus_root",
+    "south": "vietnam_delight:block/lotus_root",
+    "west": "vietnam_delight:block/lotus_root",
+    "particle": "minecraft:block/mud"
+  },
+  "render_type": "solid"
+}

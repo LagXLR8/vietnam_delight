@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/tamarind_flowers",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "vietnam_delight:tamarind",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "vietnam_delight:tamarind_flowers",
+                  "properties": {
+                    "blockstate": "5"
+                  }
+                }
+              ],
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 3.0
+                  },
+                  "add": false
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "vietnam_delight:tamarind_flowers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

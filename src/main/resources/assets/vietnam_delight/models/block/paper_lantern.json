@@ -1,0 +1,9 @@
+{
+  "parent": "vietnam_delight:custom/paper_lanterns",
+  "textures": {
+    "all": "vietnam_delight:block/paper_lanterns",
+    "particle": "vietnam_delight:block/paper_lanterns",
+    "1": "vietnam_delight:block/paper_lanterns"
+  },
+  "render_type": "cutout_mipped"
+}

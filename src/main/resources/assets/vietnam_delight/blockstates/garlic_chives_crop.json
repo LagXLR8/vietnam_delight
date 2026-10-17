@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": { "model": "vietnam_delight:block/garlic_chives_crop" },
+    "age=1": { "model": "vietnam_delight:block/garlic_chives_crop_states_blockstate_0" },
+    "age=2": { "model": "vietnam_delight:block/garlic_chives_crop_states_blockstate_1" },
+    "age=3": { "model": "vietnam_delight:block/garlic_chives_crop_states_blockstate_2" },
+    "age=4": { "model": "vietnam_delight:block/garlic_chives_crop_states_blockstate_3" },
+    "age=5": { "model": "vietnam_delight:block/garlic_chives_crop_states_blockstate_4" },
+    "age=6": { "model": "vietnam_delight:block/garlic_chives_crop_states_blockstate_5" }
+  }
+}

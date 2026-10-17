@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "vietnam_delight:block/flamboyant_wood"
+    },
+    "axis=z": {
+      "model": "vietnam_delight:block/flamboyant_wood",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "vietnam_delight:block/flamboyant_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "vietnam_delight:flamboyant_logs"
+    }
+  ],
+  "result": {
+    "item": "vietnam_delight:flamboyant_planks",
+    "count": 4
+  }
+}

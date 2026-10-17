@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "jungle",
+    "sparse_jungle"
+  ],
+  "features": "vietnam_delight:wild_lotus_seed_pod_2",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vietnam_delight:block/viet_nam_flag"
+    },
+    "facing=east": {
+      "model": "vietnam_delight:block/viet_nam_flag",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vietnam_delight:block/viet_nam_flag",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vietnam_delight:block/viet_nam_flag",
+      "y": 270
+    }
+  }
+}

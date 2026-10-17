@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "vietnam_delight:durian_planks"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:durian_trapdoor",
+    "count": 2
+  }
+}

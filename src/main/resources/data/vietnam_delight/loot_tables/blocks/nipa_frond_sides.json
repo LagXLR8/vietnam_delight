@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "vietnam_delight:blocks/nipa_frond_sides",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vietnam_delight:nipa_leaf",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "vietnam_delight:nipa_frond_sides",
+              "properties": { "blockstate": "0" }
+            },
+            {
+              "condition": "minecraft:survives_explosion"
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

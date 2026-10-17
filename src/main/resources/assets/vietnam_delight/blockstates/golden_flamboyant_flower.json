@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vietnam_delight:block/golden_flamboyant_flower"
+    },
+    "facing=east": {
+      "model": "vietnam_delight:block/golden_flamboyant_flower",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vietnam_delight:block/golden_flamboyant_flower",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vietnam_delight:block/golden_flamboyant_flower",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "vietnam_delight:block/golden_flamboyant_flower",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "vietnam_delight:block/golden_flamboyant_flower",
+      "x": 90
+    }
+  }
+}

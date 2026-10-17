@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "vietnam_delight:banana"
+  },
+  "result": "vietnam_delight:banana_cake"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone_meal"
+    },
+    "b": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:overgrow_meal",
+    "count": 1
+  }
+}

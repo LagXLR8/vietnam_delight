@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:lotus_rhizome_crate"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:lotus_rhizome",
+    "count": 9
+  }
+}

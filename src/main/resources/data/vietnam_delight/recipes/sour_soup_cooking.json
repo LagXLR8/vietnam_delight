@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+    {
+      "item": "vietnam_delight:bean_sprouts"
+    },
+    {
+      "item": "vietnam_delight:tamarind"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "vietnam_delight:sour_soup"
+  }
+}

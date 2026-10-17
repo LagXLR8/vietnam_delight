@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Forge run directory
+run/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# MCreator workspace metadata
+elements/
+
+# Local backups / archives
+lưu tạm/
+*.zip
+
+# OS
+Thumbs.db
+.DS_Store

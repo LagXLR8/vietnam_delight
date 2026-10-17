@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "vietnam_delight:felspat_bricks"
+    }
+  },
+  "result": {
+    "item": "vietnam_delight:felspat_brick_slab",
+    "count": 6
+  }
+}

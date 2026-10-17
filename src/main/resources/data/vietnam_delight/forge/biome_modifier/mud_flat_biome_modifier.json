@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "river"
+  ],
+  "features": "vietnam_delight:mud_flat",
+  "step": "surface_structures"
+}
